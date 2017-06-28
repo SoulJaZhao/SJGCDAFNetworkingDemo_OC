@@ -1,0 +1,2 @@
+# SJGCDAFNetworkingDemo_OC
+GCD实现并行AFN网络请求
